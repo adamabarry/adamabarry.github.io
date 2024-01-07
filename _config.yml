@@ -1,4 +1,4 @@
-title: "BARRY ADAMA"
+title: "ADAMA IBRAHIM BARRY"
 author: "Barry Adama"
 description: "Université Paul Sabatier"
 permalink: /:title/
@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", title: About me, icon: address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "adambarry207@gmail.com"}
+  - {title: Mail, icon: envelope, url: "mailto:adambarry207@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/adamabarry"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/barry-adama-48a0562a5/"}
 
