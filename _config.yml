@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Tuto.md", title: Tutorials}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Google Scholar, icon: googlescholar, url: "www.google.com"}
+  - {title: Google Scholar, icon: google-scholar, url: "www.google.com"}
   - {title: Mail, icon: envelope, url: "mailto:adambarry207@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/adamabarry"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/adama-barry-253314133"}
