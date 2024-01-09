@@ -1,26 +1,33 @@
-# Nom et Prénom
+---
+title: "Curriculum Vitae"
+permalink: "/CV/"
+layout: page
+---
+
+# BARRY Adama 
 ## Coordonnées
-- Adresse : [Votre adresse]
-- Téléphone : [Votre numéro de téléphone]
-- Email : [Votre adresse e-mail]
-- LinkedIn : [Votre profil LinkedIn]
-- GitHub : [Votre profil GitHub]
+- Adresse : [135 Avenue de Lespinet 31400, Toulouse]
+- Téléphone : [+3375585547]
+- Email : [adambarry207@gmail.com]
+- LinkedIn : [https://www.linkedin.com/in/adama-barry-253314133]
+- GitHub : [https://github.com/adamabarry]
+- Google site : [https://www.google.com/barryadama]
 
 ---
 
 ## Objectif professionnel
-Enthousiaste et compétent dans [domaine de compétence], je cherche à contribuer de manière significative à [objectif professionnel]. Fort de [nombre d'années d'expérience] d'expérience dans [industrie/secteur], je suis prêt à relever de nouveaux défis et à apporter ma contribution à une équipe dynamique.
+Enthousiaste et compétent dans le domaine de la [Statistique et de l'Optimisation], je cherche à contribuer de manière significative dans le domaine de la [modélisation mathématique]. Fort de [3] d'expériences de thèse dans [Industrie/Recherche], je suis prêt à relever de nouveaux défis et à apporter ma contribution à une équipe dynamique.
 
 ---
 
 ## Expérience professionnelle
 
-### [Nom de l'entreprise]
-#### [Ville, Pays]
-*Période d'emploi*
+### [IFPEN]
+#### [Paris, FRANCE]
+*2022-2024*
 
-- **Titre du poste occupé**
-  - Description des responsabilités et réalisations clés.
+- **Ingénieur-recherche junior**
+  - Travail sur le sujet de thèse intitulé: "Plans d'experiences pour la calibration et la validation de code de calcul"
 
 ### [Nom de l'entreprise]
 #### [Ville, Pays]
@@ -50,10 +57,9 @@ Enthousiaste et compétent dans [domaine de compétence], je cherche à contribu
 ---
 
 ## Compétences
-- Langages de programmation : [Liste des langages]
+- Langages de programmation : [R, Python, SQL, C++]
 - Outils et technologies : [Liste des outils et technologies pertinents]
-- Compétences en gestion de projet : [Liste des compétences en gestion de projet]
-- Langues : [Langues et niveaux de compétence]
+- Langues : [Français (C), Anglais (B), Bambara et Sonrhai;]
 
 ---
 
@@ -67,7 +73,7 @@ Enthousiaste et compétent dans [domaine de compétence], je cherche à contribu
 ---
 
 ## Centres d'intérêt
-- [Centres d'intérêt pertinents]
+- [Philosophie, Economie, Psychologie, Voyages etc.]
 
 ---
 
