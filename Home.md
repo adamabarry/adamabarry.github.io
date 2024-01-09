@@ -1,5 +1,6 @@
 ---
 title: "WELCOME"
+permalink: "/Home/"
 layout: page
 ---
 
