@@ -11,3 +11,5 @@ INRIA Grénoble and the Institut Francais du pétrole et des énergies nouvelles
 I work on **Optimal designs of physical and numerical experiments for Bayesian calibration of expensive computer code**.
 
 On this page, I'll be posting tutorials on the tools I'm using for my thesis in the **Tutorials** section. 
+
+[GP](GP.png)
