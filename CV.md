@@ -11,7 +11,7 @@ layout: page
 - Email : [adambarry207@gmail.com](adambarry207@gmail.com)
 - LinkedIn : [Adama BARRY](https://www.linkedin.com/in/adama-barry-253314133)
 - GitHub : [Adama BARRY](https://github.com/adamabarry)
-- Google site : [Adama BARRY](https://www.google.com/barryadama]
+- Google site : [Adama BARRY](https://www.google.com/barryadama)
 
 ---
 
