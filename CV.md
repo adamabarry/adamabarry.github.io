@@ -6,12 +6,12 @@ layout: page
 
 # BARRY Adama 
 ## Coordonnées
-- Adresse : [135 Avenue de Lespinet 31400, Toulouse]
-- Téléphone : [+3375585547]
-- Email : [adambarry207@gmail.com]
-- LinkedIn : [https://www.linkedin.com/in/adama-barry-253314133]
-- GitHub : [https://github.com/adamabarry]
-- Google site : [https://www.google.com/barryadama]
+- Adresse : 135 Avenue de Lespinet 31400, Toulouse
+- Téléphone : +3375585547*
+- Email : [adambarry207@gmail.com](adambarry207@gmail.com)
+- LinkedIn : [Adama BARRY](https://www.linkedin.com/in/adama-barry-253314133)
+- GitHub : [Adama BARRY](https://github.com/adamabarry)
+- Google site : [Adama BARRY](https://www.google.com/barryadama]
 
 ---
 
