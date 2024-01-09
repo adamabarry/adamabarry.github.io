@@ -1,5 +1,5 @@
 ---
-title: "Welcome"
+title: "WELCOME"
 layout: post
 ---
 Welcome to my web page!
