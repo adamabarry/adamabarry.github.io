@@ -4,11 +4,14 @@ permalink: "/Home/"
 layout: page
 ---
 
-<img src="PG.jpg" alt="Photo de la personne" width="250" height="200" style="float: left; margin-right: 45px;"> Welcome to my web page!
+Welcome to my web page!
 My name is **BARRY Adama**. I'm a third-year PhD student in Statistics and Optimisation at Institut de Mathématiques de Toulouse (IMT), 
 INRIA Grénoble and Institut Francais du Pétrole et des Energies nouvelles (IFPEN). 
 I work on **Optimal designs of physical and numerical experiments for Bayesian calibration of expensive computer code**.
 
-On this page, I'll be posting tutorials on the tools I'm using for my thesis in the **Tutorials** section. 
+On this page, you'll find a collection of tutorials, projects, and resources that I've created to share my knowledge with the community. My aim is to simplify complex concepts and provide practical guides to help enthusiasts and learners progress along their journey.
 
+Feel free to explore my projects, ask questions, and contribute via my email: adambarry207@gmail.com.
+
+Thank you for joining this adventure with me. 🌟
 ![GP](PG.jpg)
