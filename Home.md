@@ -13,5 +13,6 @@ On this page, you'll find a collection of tutorials, projects, and resources tha
 
 Feel free to explore my projects, ask questions, and contribute via my email: adambarry207@gmail.com.
 
-Thank you for joining this adventure with me. 🌟
 ![GP](PG.jpg)
+
+Thank you for joining this adventure with me. 🌟
