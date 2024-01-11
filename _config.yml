@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon} index
   - {file: "Home.md", title: Home, icon: home}
   - {file: "CV.md", title: CV}
   - {file: "Research.md", title: Research}
-  - {file: "Teach.md", title: Teaching}
+  - {file: "Teaching.md", title: Teaching}
   - {file: "Tuto.md", title: Tutorials} 
   - {file: "IMT.md", title: IMT, url: https://www.math.univ-toulouse.fr/fr/}
  
