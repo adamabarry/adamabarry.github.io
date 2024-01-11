@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon} index
   - {file: "CV.md", title: CV}
   - {file: "Research.md", title: Research}
   - {file: "Teaching.md", title: Teaching}
-  - {file: "Tuto.md", title: Tutorials} 
+  - {file: "Tuto.html", title: Tutorials} 
   - {file: "IMT.md", title: IMT, url: https://www.math.univ-toulouse.fr/fr/}
  
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
